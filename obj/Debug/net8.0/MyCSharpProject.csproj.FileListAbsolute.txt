@@ -1,0 +1,15 @@
+/Users/ishakc/Desktop/dotnet/MyCSharpProject/bin/Debug/net8.0/MyCSharpProject
+/Users/ishakc/Desktop/dotnet/MyCSharpProject/bin/Debug/net8.0/MyCSharpProject.deps.json
+/Users/ishakc/Desktop/dotnet/MyCSharpProject/bin/Debug/net8.0/MyCSharpProject.runtimeconfig.json
+/Users/ishakc/Desktop/dotnet/MyCSharpProject/bin/Debug/net8.0/MyCSharpProject.dll
+/Users/ishakc/Desktop/dotnet/MyCSharpProject/bin/Debug/net8.0/MyCSharpProject.pdb
+/Users/ishakc/Desktop/dotnet/MyCSharpProject/obj/Debug/net8.0/MyCSharpProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ishakc/Desktop/dotnet/MyCSharpProject/obj/Debug/net8.0/MyCSharpProject.AssemblyInfoInputs.cache
+/Users/ishakc/Desktop/dotnet/MyCSharpProject/obj/Debug/net8.0/MyCSharpProject.AssemblyInfo.cs
+/Users/ishakc/Desktop/dotnet/MyCSharpProject/obj/Debug/net8.0/MyCSharpProject.csproj.CoreCompileInputs.cache
+/Users/ishakc/Desktop/dotnet/MyCSharpProject/obj/Debug/net8.0/MyCSharpProject.sourcelink.json
+/Users/ishakc/Desktop/dotnet/MyCSharpProject/obj/Debug/net8.0/MyCSharpProject.dll
+/Users/ishakc/Desktop/dotnet/MyCSharpProject/obj/Debug/net8.0/refint/MyCSharpProject.dll
+/Users/ishakc/Desktop/dotnet/MyCSharpProject/obj/Debug/net8.0/MyCSharpProject.pdb
+/Users/ishakc/Desktop/dotnet/MyCSharpProject/obj/Debug/net8.0/MyCSharpProject.genruntimeconfig.cache
+/Users/ishakc/Desktop/dotnet/MyCSharpProject/obj/Debug/net8.0/ref/MyCSharpProject.dll
