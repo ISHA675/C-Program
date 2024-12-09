@@ -10,6 +10,7 @@ public class Program
         var radius=double.Parse(r);
         double area=calculate_area(radius);
         Console.WriteLine("The area of circle is:"+area);
+        Console.WriteLine("Congratulations area of circle has been found");
         //Console.ReadKey();
         //create instance of class
         //var Circle=new Shape();
